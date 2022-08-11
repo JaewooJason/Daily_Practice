@@ -1,3 +1,3 @@
-# Jason daily practice 
-## Python, Pandas, Numpy, Django...
-### 파이썬을 기본으로 배운 언어를 정리하고 긍정의 씨앗을 심는 단계!!!
+### Jason daily practice 
+#### Python, Pandas, Numpy, Django...
+##### 파이썬을 기본으로 배운 언어를 정리하고 긍정의 씨앗을 심는 단계!!!
